@@ -1,17 +1,6 @@
 {
   "emp": [
     {
-      "name": "Aadrash",
-      "email": "greenja12@gmail.com",
-      "mobile": "9875462138",
-      "gender": "Male",
-      "designation": "hr",
-      "course": "BCA",
-      "image": "https://images.unsplash.com/photo-1580518324671-c2f0833a3af3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGFjdG9yc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
-      "date": "2023-03-22",
-      "id": 1
-    },
-    {
       "image": "https://nettv4u.com/imagine/c/h/r/i/s/t/christian-oliver.jpg",
       "name": "kumaran",
       "email": "kumaran@gmail.com",
@@ -43,6 +32,17 @@
       "date": "2023-02-25",
       "image": "https://images.unsplash.com/photo-1548251147-dda09867567a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YWN0b3JzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
       "id": 5
+    },
+    {
+      "name": "sanya",
+      "email": "sanya@gmail.com",
+      "mobile": "6868523251",
+      "gender": "Femlae",
+      "designation": "hr",
+      "course": "BCA",
+      "image": "https://pixlr.com/images/index/remove-bg.webp",
+      "date": "2023-02-24",
+      "id": 6
     }
   ]
 }
